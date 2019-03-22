@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Cortex</string>
+
+    <!-- OnBoard Screen. -->
+
+    <string name="ob_header1">HIGHLY CUSTOMIZABLE</string>
+    <string name="ob_header2">EASY INSTALLATION</string>
+    <string name="ob_header3">TRAIN YOUR BIOARM</string>
+    <string name="ob_header4">INTERACTIVE</string>
+    <string name="ob_header5">STAY CONNECTED</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">Order your BioArm. Custom details and requirements can be mentioned.</string>
+    <string name="ob_desc2">Go through the lucid installation process. The arm has a fix and clicks design, giving you flexibility to detach when required.</string>
+    <string name="ob_desc3">Initial training session makes you familiar with how the BioArm functions and gives the device just enough EEG data to be up and running.</string>
+    <string name="ob_desc4">Use the app so that the arm learns your individual habits, signal patterns, while also giving you the option to save presets.</string>
+    <string name="ob_desc5">Use the app to get in touch with the community. Share experiences, solve problems, contribute presets and participate in social activities.</string>
+
+    <string name="username">SIDDHANT DANGI</string>
+    <string name="arm_id">ARM ID: INRJ001</string>
+
+    <string name="not_connected">PLEASE CONNECT TO THE BIOARM</string>
+
+</resources>
